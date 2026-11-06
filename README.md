@@ -20,33 +20,36 @@ Atuo como **Analista de Custos** na construção pesada, estruturando bases com 
 
 ## 🚀 Projetos em destaque
 
-Três projetos de classificação, com notebook executável, dados, imagens e documentação técnica justificando cada decisão.
+Três projetos completos de classificação, cada um com notebook executável, dados, imagens e documentação técnica que justifica as decisões. Em cada card: o problema, as técnicas aplicadas e o resultado principal.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/JMateus1997/thyroid-disease-classification">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMateus1997&repo=thyroid-disease-classification&title_color=7F3ACE&icon_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE" width="100%"/>
-      </a>
+    <td width="33%" valign="top" align="center">
+      <h3>🩺 Disfunção Tireoidiana</h3>
+      <sub>Saúde · base UCI · 3.772 pacientes</sub>
+      <p align="left">Detectar pacientes com disfunção da tireoide a partir de exames hormonais e histórico clínico, com prioridade em reduzir falsos negativos.</p>
+      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/Random_Forest-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/SVM-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/SMOTE-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Grid_Search-2E1A47?style=flat-square"/></p>
+      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Recall-0.98-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Precis%C3%A3o-0.94-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Falsos_negativos-1_em_60-5E2CA5?style=flat-square"/></p>
+      <a href="https://github.com/JMateus1997/thyroid-disease-classification"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/JMateus1997/titanic-survival-prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMateus1997&repo=titanic-survival-prediction&title_color=7F3ACE&icon_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE" width="100%"/>
-      </a>
+    <td width="33%" valign="top" align="center">
+      <h3>🚢 Titanic</h3>
+      <sub>Competição Kaggle · 891 passageiros</sub>
+      <p align="left">Prever quais passageiros sobreviveram a partir de dados demográficos e da passagem, com engenharia de features e comparação de modelos.</p>
+      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/Random_Forest-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/SVM-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Feature_Engineering-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Grid_Search-2E1A47?style=flat-square"/></p>
+      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Kaggle-0.77272-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Modelos-3_comparados-5E2CA5?style=flat-square"/></p>
+      <a href="https://github.com/JMateus1997/titanic-survival-prediction"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/JMateus1997/semantix-data-science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMateus1997&repo=semantix-data-science&title_color=7F3ACE&icon_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE" width="100%"/>
-      </a>
+    <td width="33%" valign="top" align="center">
+      <h3>💳 Score de Crédito</h3>
+      <sub>Semantix · crédito e risco</sub>
+      <p align="left">Classificar clientes em faixas de score a partir de renda, moradia e histórico financeiro, do pré-processamento à avaliação dos modelos.</p>
+      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/EDA-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Naive_Bayes-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/%C3%81rvore_de_Decis%C3%A3o-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Pr%C3%A9--processamento-2E1A47?style=flat-square"/></p>
+      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Acur%C3%A1cia-97.5%25-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Fatores_decisivos-renda_e_moradia-5E2CA5?style=flat-square"/></p>
+      <a href="https://github.com/JMateus1997/semantix-data-science"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
-
-| Projeto | Problema | Modelos | Resultado |
-|:--|:--|:--|:--|
-| 🩺 [**Detecção de Disfunção Tireoidiana**](https://github.com/JMateus1997/thyroid-disease-classification) | Identificar pacientes com disfunção da tireoide a partir de exames hormonais, minimizando falsos negativos (base UCI, 3.772 pacientes) | Random Forest, XGBoost, SVM, com SMOTE, padronização e grid search | ![Recall](https://img.shields.io/badge/Recall-0.98-7F3ACE?style=flat-square) ![Precisão](https://img.shields.io/badge/Precisão-0.94-5E2CA5?style=flat-square) 1 falso negativo em 60 |
-| 🚢 [**Previsão de Sobrevivência no Titanic**](https://github.com/JMateus1997/titanic-survival-prediction) | Competição do Kaggle: prever sobreviventes a partir de dados demográficos e da passagem | Random Forest, SVM, XGBoost, com engenharia de features e grid search | ![Kaggle](https://img.shields.io/badge/Kaggle-0.77272-7F3ACE?style=flat-square) submissão pública |
-| 💳 [**Previsão de Score de Crédito**](https://github.com/JMateus1997/semantix-data-science) | Classificar clientes em faixas de score a partir de renda, moradia e histórico financeiro (Semantix) | Pré-processamento e EDA, Naive Bayes, Árvore de Decisão | ![Acurácia](https://img.shields.io/badge/Acurácia-97.5%25-7F3ACE?style=flat-square) renda e moradia como fatores decisivos |
 
 ---
 
@@ -112,15 +115,6 @@ Três projetos de classificação, com notebook executável, dados, imagens e do
 - Machine Learning avançado  
 - Deploy de modelos e fundamentos de MLOps  
 - Estatística aplicada a projetos orientados por dados  
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMateus1997&show_icons=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE&locale=pt-br" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMateus1997&layout=compact&title_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE&locale=pt-br" height="165"/>
-</p>
 
 ---
 
