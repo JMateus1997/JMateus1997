@@ -1,86 +1,132 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Mateus+Almeida;Mechatronic+Engineer+%7C+Data+Science+%26+AI;Planning+%7C+Analytics+%7C+Machine+Learning;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Mateus+Almeida;Engenheiro+Mecatrônico+%7C+Ciência+de+Dados+%26+IA;Planejamento+%7C+Analytics+%7C+Machine+Learning;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-🎓 **Mechatronic Engineer**  
-📊 **Postgraduate in Artificial Intelligence & Machine Learning**  
-📍 Brazil  
+🎓 **Engenheiro Mecatrônico**  
+📊 **Pós-graduado em Inteligência Artificial e Machine Learning**  
+📚 **Formação Profissão: Cientista de Dados (EBAC), em conclusão**  
+📍 São Luís, Maranhão, Brasil  
 
-I am a professional with a strong analytical background, combining **engineering, project planning, data analytics and machine learning**.  
-My experience connects **technical rigor, business understanding and data-driven decision-making**, with a continuous focus on learning and real-world applications.
+Sou um profissional com forte base analítica, que combina **engenharia, planejamento, análise de dados e machine learning**.  
+Minha experiência une **rigor técnico, entendimento do negócio e decisão orientada por dados**, com foco contínuo em aprendizado e aplicação prática.
 
-Currently, I am deepening my expertise in **Data Science, Machine Learning and applied analytics**, aiming to build scalable, impactful solutions and high-quality projects.
-
----
-
-## 🚀 Areas of Interest
-
-- Data Science & Analytics  
-- Machine Learning & Artificial Intelligence  
-- Computer Vision & Predictive Models  
-- Project Planning & Performance Indicators  
-- Process Optimization & Decision Support  
+Atuo como **Analista de Custos** na construção pesada, estruturando bases com SQL e construindo dashboards em Power BI de custos, faturamento e produtividade. Em paralelo, aprofundo minha atuação em **Ciência de Dados e Machine Learning** por meio de projetos completos, do tratamento dos dados à documentação dos resultados.
 
 ---
 
-## 🧠 Main Skills
+## 🚀 Projetos em destaque
 
-### 🔧 Programming & Data
+Três projetos de classificação, com notebook executável, dados, imagens e documentação técnica justificando cada decisão.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/JMateus1997/thyroid-disease-classification">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMateus1997&repo=thyroid-disease-classification&title_color=7F3ACE&icon_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE" width="100%"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/JMateus1997/titanic-survival-prediction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMateus1997&repo=titanic-survival-prediction&title_color=7F3ACE&icon_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE" width="100%"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/JMateus1997/semantix-data-science">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMateus1997&repo=semantix-data-science&title_color=7F3ACE&icon_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+| Projeto | Problema | Modelos | Resultado |
+|:--|:--|:--|:--|
+| 🩺 [**Detecção de Disfunção Tireoidiana**](https://github.com/JMateus1997/thyroid-disease-classification) | Identificar pacientes com disfunção da tireoide a partir de exames hormonais, minimizando falsos negativos (base UCI, 3.772 pacientes) | Random Forest, XGBoost, SVM, com SMOTE, padronização e grid search | ![Recall](https://img.shields.io/badge/Recall-0.98-7F3ACE?style=flat-square) ![Precisão](https://img.shields.io/badge/Precisão-0.94-5E2CA5?style=flat-square) 1 falso negativo em 60 |
+| 🚢 [**Previsão de Sobrevivência no Titanic**](https://github.com/JMateus1997/titanic-survival-prediction) | Competição do Kaggle: prever sobreviventes a partir de dados demográficos e da passagem | Random Forest, SVM, XGBoost, com engenharia de features e grid search | ![Kaggle](https://img.shields.io/badge/Kaggle-0.77272-7F3ACE?style=flat-square) submissão pública |
+| 💳 [**Previsão de Score de Crédito**](https://github.com/JMateus1997/semantix-data-science) | Classificar clientes em faixas de score a partir de renda, moradia e histórico financeiro (Semantix) | Pré-processamento e EDA, Naive Bayes, Árvore de Decisão | ![Acurácia](https://img.shields.io/badge/Acurácia-97.5%25-7F3ACE?style=flat-square) renda e moradia como fatores decisivos |
+
+---
+
+## 🎯 Áreas de interesse
+
+- Ciência de Dados e Analytics  
+- Machine Learning e Inteligência Artificial  
+- Visão Computacional e Modelos Preditivos  
+- Planejamento de Projetos e Indicadores de Desempenho  
+- Otimização de Processos e Apoio à Decisão  
+
+---
+
+## 🧠 Principais habilidades
+
+### 🔧 Programação e Dados
 ![Python](https://img.shields.io/badge/Python-7F3ACE?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4B2E83?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-6A5ACD?style=for-the-badge&logo=r&logoColor=white)
 
-### 📊 Data Science & ML
+### 📊 Ciência de Dados e ML
 ![Pandas](https://img.shields.io/badge/Pandas-2E1A47?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-5E2CA5?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-7B68EE?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-6F42C1?style=for-the-badge&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-512DA8?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 📈 Analytics & Visualization
+### 📈 Analytics e Visualização
 ![Power BI](https://img.shields.io/badge/Power%20BI-4B0082?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-6A0DAD?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7F3ACE?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5E2CA5?style=for-the-badge&logo=python&logoColor=white)
 
-### 🏗️ Engineering & Planning
+### 🏗️ Engenharia e Planejamento
 ![MS Project](https://img.shields.io/badge/MS%20Project-512DA8?style=for-the-badge&logo=microsoft&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-673AB7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
 
-## 📌 Methodologies & Practices
+## 📌 Metodologias e práticas
 
 - CRISP-DM  
-- Agile (Scrum & Kanban)  
-- KPI Analysis & Performance Monitoring  
-- Process Mapping & Optimization  
-- Data-Driven Decision Making  
+- Ágil (Scrum e Kanban)  
+- Six Sigma (Green Belt)  
+- Análise de KPIs e Monitoramento de Desempenho  
+- Mapeamento e Otimização de Processos  
+- Decisão Orientada por Dados  
 
 ---
 
-## 📂 What You’ll Find Here
+## 📂 O que você encontra aqui
 
-✔ Data Science and Machine Learning projects  
-✔ Exploratory Data Analysis (EDA)  
-✔ Predictive models and applied AI  
-✔ Engineering & planning analytical tools  
-✔ Continuous learning notebooks and experiments  
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning  
-- Model Deployment & MLOps fundamentals  
-- Applied statistics for data-driven projects  
+✔ Projetos de Ciência de Dados e Machine Learning  
+✔ Análise Exploratória de Dados (EDA)  
+✔ Modelos preditivos e IA aplicada  
+✔ Ferramentas analíticas de engenharia e planejamento  
+✔ Notebooks de estudo e experimentos  
 
 ---
 
-## 📫 Let’s Connect
+## 🌱 Aprendendo no momento
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-mateus-almeida)
+- Machine Learning avançado  
+- Deploy de modelos e fundamentos de MLOps  
+- Estatística aplicada a projetos orientados por dados  
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JMateus1997&show_icons=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE&locale=pt-br" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMateus1997&layout=compact&title_color=7F3ACE&text_color=333333&bg_color=FFFFFF&border_color=7F3ACE&locale=pt-br" height="165"/>
+</p>
+
+---
+
+## 📫 Vamos conversar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-mateus-almeida)
 [![Email](https://img.shields.io/badge/Email-5E2CA5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaomateusr.almeida@gmail.com)
 
 ---
