@@ -20,34 +20,52 @@ Atuo como **Analista de Custos** na construção pesada, estruturando bases com 
 
 ## 🚀 Projetos em destaque
 
-Três projetos completos de classificação, cada um com notebook executável, dados, imagens e documentação técnica que justifica as decisões. Em cada card: o problema, as técnicas aplicadas e o resultado principal.
-
+Cinco projetos completos, de classificação e de clusterização, cada um com notebook executável, dados, imagens e documentação técnica que justifica as decisões. Em cada card: o problema, as técnicas aplicadas e o resultado principal.
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
       <h3>🩺 Disfunção Tireoidiana</h3>
       <sub>Saúde · base UCI · 3.772 pacientes</sub>
       <p align="left">Detectar pacientes com disfunção da tireoide a partir de exames hormonais e histórico clínico, com prioridade em reduzir falsos negativos.</p>
-      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/Random_Forest-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/SVM-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/SMOTE-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Grid_Search-2E1A47?style=flat-square"/></p>
-      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Recall-0.98-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Precis%C3%A3o-0.94-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Falsos_negativos-1_em_60-5E2CA5?style=flat-square"/></p>
-      <a href="https://github.com/JMateus1997/thyroid-disease-classification"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/Random\_Forest-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/SVM-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/SMOTE-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Grid\_Search-2E1A47?style=flat-square"/></p>
+      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Recall-0.98-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Precis%C3%A3o-0.94-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Falsos\_negativos-1\_em\_60-5E2CA5?style=flat-square"/></p>
+      <a href="https://github.com/JMateus1997/thyroid-disease-classification"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge\&logo=github\&logoColor=white"/></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🚢 Titanic</h3>
       <sub>Competição Kaggle · 891 passageiros</sub>
       <p align="left">Prever quais passageiros sobreviveram a partir de dados demográficos e da passagem, com engenharia de features e comparação de modelos.</p>
-      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/Random_Forest-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/SVM-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Feature_Engineering-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Grid_Search-2E1A47?style=flat-square"/></p>
-      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Kaggle-0.77272-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Modelos-3_comparados-5E2CA5?style=flat-square"/></p>
-      <a href="https://github.com/JMateus1997/titanic-survival-prediction"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/Random\_Forest-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/SVM-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Feature\_Engineering-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Grid\_Search-2E1A47?style=flat-square"/></p>
+      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Kaggle-0.77272-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Modelos-3\_comparados-5E2CA5?style=flat-square"/></p>
+      <a href="https://github.com/JMateus1997/titanic-survival-prediction"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge\&logo=github\&logoColor=white"/></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>💳 Score de Crédito</h3>
       <sub>Semantix · crédito e risco</sub>
       <p align="left">Classificar clientes em faixas de score a partir de renda, moradia e histórico financeiro, do pré-processamento à avaliação dos modelos.</p>
-      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/EDA-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Naive_Bayes-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/%C3%81rvore_de_Decis%C3%A3o-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Pr%C3%A9--processamento-2E1A47?style=flat-square"/></p>
-      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Acur%C3%A1cia-97.5%25-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Fatores_decisivos-renda_e_moradia-5E2CA5?style=flat-square"/></p>
-      <a href="https://github.com/JMateus1997/semantix-data-science"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/EDA-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Naive\_Bayes-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/%C3%81rvore\_de\_Decis%C3%A3o-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Pr%C3%A9--processamento-2E1A47?style=flat-square"/></p>
+      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Acur%C3%A1cia-97.5%25-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Fatores\_decisivos-renda\_e\_moradia-5E2CA5?style=flat-square"/></p>
+      <a href="https://github.com/JMateus1997/semantix-data-science"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge\&logo=github\&logoColor=white"/></a>
     </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🛍️ Segmentação de Clientes</h3>
+      <sub>Marketing · shopping · 200 clientes</sub>
+      <p align="left">Agrupar clientes por renda e pontuação de gastos com K-Means, escolhendo o número de clusters por cotovelo e silhouette, com ações de marketing por segmento.</p>
+      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/K--Means-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/StandardScaler-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Elbow-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Silhouette-2E1A47?style=flat-square"/></p>
+      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/Silhouette-0.555-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Segmentos-5-5E2CA5?style=flat-square"/></p>
+      <a href="https://github.com/JMateus1997/customer-segmentation-kmeans"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge\&logo=github\&logoColor=white"/></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🛒 Intenção de Compra Online</h3>
+      <sub>Marketing digital · varejo · 2.240 clientes</sub>
+      <p align="left">Prever quais clientes compram pelo site, comparando seleção de variáveis por correlação e redução de dimensionalidade com PCA em três modelos.</p>
+      <p><b>Técnicas</b><br><img src="https://img.shields.io/badge/Random\_Forest-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/Regress%C3%A3o\_Log%C3%ADstica-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/%C3%81rvore\_de\_Decis%C3%A3o-2E1A47?style=flat-square"/> <img src="https://img.shields.io/badge/PCA-2E1A47?style=flat-square"/></p>
+      <p><b>Resultado</b><br><img src="https://img.shields.io/badge/AUC-0.945-7F3ACE?style=flat-square"/> <img src="https://img.shields.io/badge/Recall-0.90-5E2CA5?style=flat-square"/></p>
+      <a href="https://github.com/JMateus1997/web-purchase-intent-prediction"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rio-7F3ACE?style=for-the-badge\&logo=github\&logoColor=white"/></a>
+    </td>
+    <td width="33%" valign="top"></td>
   </tr>
 </table>
 
